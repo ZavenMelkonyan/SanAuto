@@ -81,3 +81,5 @@ Use a slightly more realistic, "real workshop phone photo" look for these:
 ## 4. Logo
 
 `images/logo.svg` is a vector (sharp at any size) redraw of the mockup logo; `images/favicon.svg` is the browser-tab icon. If you have the original logo file, replace `logo.svg` with it — or save it as `logo.png` and change `images/logo.svg` to `images/logo.png` in `index.html` (2 places).
+
+//Test
